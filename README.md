@@ -1,6 +1,6 @@
 # compojure-describe
 
-A Clojure library designed to parse compojure route definations
+A Clojure library designed to parse compojure route definations.
 
 ## Example
 
